@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: patricksuessch/test3:1.0.0
+        image: patricksuessch/Test3:1.0.0
         ports:
         - containerPort: 8080
 ---
